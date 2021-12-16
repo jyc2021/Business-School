@@ -376,8 +376,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
   border-radius: 5px;
 
-  background-color: rgb(3,61,252);
-  background-color: rgba(3,61,252,0.8);
+  background-color: rgb(3,252,3);
+  background-color: rgba(3,252,3,0.8);
 
   color: #fff;
 
